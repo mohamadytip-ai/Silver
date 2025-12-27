@@ -6,8 +6,15 @@
         "Allowoffline": true
     },
     {
+        "device_id": "",
+        "key": "",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
+    },
+
+    {
         "device_id": "ffaa01320ef79644",
-        "key": "mmdff",
+        "key": "silver",
         "expirydate": "30-12-9999",
         "Allowoffline": false
     }
