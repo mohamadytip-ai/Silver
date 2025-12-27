@@ -1,21 +1,14 @@
-
+[
     {
-        "device_id": "yu",
-        "key": "ad",
-        "expirydate": "30-12-9999",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "",
-        "key": "",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-
-    {
         "device_id": "ffaa01320ef79644",
-        "key": "silver",
-        "expirydate": "30-12-9999",
+        "key": "mika",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     }
 ]
