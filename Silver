@@ -1,14 +1,16 @@
 [
-    {
-        "device_id": "",
-        "key": "",
-        "expirydate": "15-06-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ffaa01320ef79644",
-        "key": "SILVER",
-        "expirydate": "31-12-9999",
-        "Allowoffline": false
-    }
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "mmd",
+    "password": "ff",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
 ]
